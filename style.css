@@ -1,4 +1,4 @@
-div {
+.login-card {
   width: 200px;
   height: 150px;
   display: flex;
@@ -8,18 +8,18 @@ div {
   margin: 20px;
 }
 
-div input {
+.input {
   width: 130px;
   height: 50px;
   border: 1px solid green;
   border-radius: 8px;
 }
 
-div input:hover {
+.input:hover {
   border: 1px solid blue;
 }
 
-div button {
+button {
   width: 100px;
   height: 27px;
   border: 1px solid black;
