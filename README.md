@@ -1,6 +1,5 @@
 <h1>Repo - 1</h1>
 <br>
-<hr>
 <p>Bu mening githubdagi birinchi repository hisoblanadi.</p>
 <br>
 <hr>
